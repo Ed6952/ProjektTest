@@ -1,0 +1,185 @@
+.menu a {
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px 0;
+    text-decoration: none;
+    text-align: center;
+ }
+
+ .menu {
+    vertical-align: bottom;
+    text-align: center;
+    /* color: #f1f11f */
+    padding: 10px 15px;
+ }
+
+ .header {
+    vertical-align: bottom;
+    text-align: center;
+    color: #f1f1f1;
+    padding: 200px;
+    background-image: url(polygons.png);
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+
+ .inheader {
+    color: black;
+    background: #f1f1f1;
+    ;
+    border-radius: 10px;
+    padding: 13px 19px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 0;
+ }
+
+ .about h1 {
+    text-align: center;
+ }
+
+ .about {
+    margin: 0 auto;
+    width: 1200px;
+ }
+
+ .about img {
+    float: right;
+    height: 275px;
+    /* background: #f1f1f1; */
+ }
+
+ .team {
+    text-align: center;
+ }
+
+ .member {
+    box-shadow: 0 0 10px rgba(128, 128, 128);
+    display: inline-block;
+    width: 340px;
+    text-align: left;
+    padding: 25px;
+    margin: 10px 5px;
+ }
+
+ .member img {
+    width: 100%;
+ }
+
+ .memname {
+    text-align: left;
+ }
+
+ .team a {
+    text-align: center;
+    display: block;
+    background-color: #055b73;
+    padding: 10px;
+    border-radius: 10px;
+    padding: 13px 19px;
+    text-decoration: none;
+    color: white;
+ }
+
+ .spec p {
+    color: gray;
+ }
+
+ .donate {
+    background: gray;
+    text-align: center;
+
+ }
+
+ .donate h1,
+ .donate p {
+    color: white;
+ }
+
+ .Donate p {
+    color: white;
+ }
+
+ .rep {
+    background: white;
+    color: black;
+    height: 450px;
+    width: 450px;
+    display: inline-block;
+ }
+
+ .rep h1 {
+    color: black;
+ }
+
+ .donate {
+    text-decoration: none;
+    padding: 20px 0px;
+ }
+ 
+ .tariff_name {
+    background-color:black ;
+ }
+
+ .tariff_name h1 {
+    background-color: black;
+    color: white;
+    padding: 30px;
+ }
+ ul { 
+   list-style-type: none;
+    padding-left: 0; 
+          
+ }
+ li {
+   border-bottom: 1px solid gray; 
+   padding:17px 0px;
+   background-color: white;
+
+   
+ }
+ li a {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 12px 24px;
+    border-radius:10px ;
+    
+ }
+ .con h1 {
+    text-align: center;
+ }
+ .text {
+    text-align: center;
+ }
+ input {
+    width: 85%;
+    padding: 7px;
+    margin: 5px;
+    outline: none;
+ }
+ .address {
+    background-image: url(address.png);
+ }
+ .phone {
+    background-image: url(phone.png)        
+ }
+ .mail {
+    background-image: url(mail.png)
+ }
+ .info {
+    background-repeat: no-repeat;
+    padding-left: 2%;
+    background-size: 18px 18px;
+    text-align: left;
+ }
+ button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 4px;
+ }
+ .con {
+    text-align: center;
+ }
